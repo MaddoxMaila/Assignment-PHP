@@ -1,3 +1,0 @@
-# PHP Assignment
-
-Lets Work!!
