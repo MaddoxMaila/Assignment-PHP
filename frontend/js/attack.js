@@ -170,3 +170,5 @@
 
     } // End Of element()
   } // End Of Class
+
+  let app = new Element(document)

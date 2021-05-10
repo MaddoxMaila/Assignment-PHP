@@ -11,11 +11,21 @@
 				</div>
 				<div class="media-body align-self-center search-wrapper pl-4 pr-4">
 					
-					<div class="input-group input-group-md">
-						<span class="input-group-addon">
-							<span class="glyphicon glyphicon-search"></span>
-						</span>
-						<input type="text" name="q" placeholder="Search Funders" class="search-q form-control" />
+					<div class="row">
+						
+						<div class="col-4">
+							
+							<div class="input-group">
+							  <div class="input-group-prepend">
+							    <span class="input-group-text" id="basic-addon1">Search</span>
+							  </div>
+							  <input type="text" class="form-control" placeholder="" aria-label="search" aria-describedby="basic-addon1">
+							</div>
+
+						</div>
+						<div class="col-4"></div>
+						<div class="col-4"></div>
+
 					</div>
 
 				</div>

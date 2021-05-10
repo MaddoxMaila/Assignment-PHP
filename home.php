@@ -43,7 +43,9 @@
 			</div>
 			<div class="col-lg-6">
 				
-				
+				<center>
+					<img class="rounded-img" src="frontend/doja/graduate.jpg" height="600" width="600" />
+				</center>
 
 			</div>
 			<div class="col-lg-3"></div>

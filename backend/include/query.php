@@ -28,21 +28,16 @@
 
    	 }
    	 public function insert($sql){
-
    	 	 return mysqli_query($this->Connection,$sql) ? true : false;
 
    	 }
 
        public function update($sql){
-
-         return mysqli_query($this->connection, $sql) ? true : false;
-
+         return mysqli_query($this->Connection, $sql) ? true : false;
        }
 
        public function delete($sql){
-
          return mysqli_query($this->Connection,$sql) ? true : false;
-
        }
    	 #Auxilliary Functions
 
